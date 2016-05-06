@@ -1,0 +1,1 @@
+# Layla plugin boilerplate
